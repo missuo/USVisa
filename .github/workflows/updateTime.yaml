@@ -19,6 +19,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install httpx
+          pip install pytz
       - name: Run Python
         run: |
           python fetchTime.py
