@@ -4,7 +4,7 @@ This is the U.S. Visa China Embassy Appointment Waiting Time Report page
 
 ## Information
 
-**Last updated on: 2023-05-18 17:12:16** (Updated every 3 hours)
+**Last updated on: 2023-05-18 20:26:43** (Updated every 3 hours)
     
 ### Beijing - P24
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
