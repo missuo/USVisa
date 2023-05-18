@@ -4,7 +4,7 @@ This is the U.S. Visa China Embassy Appointment Waiting Time Report page
 
 ## Information
 
-**Last updated on: 2023-05-18 14:17:09** (Updated every 3 hours)
+**Last updated on: 2023-05-18 17:12:16** (Updated every 3 hours)
     
 ### Beijing - P24
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
@@ -37,10 +37,10 @@ This is the U.S. Visa China Embassy Appointment Waiting Time Report page
 ### Guangzhou - P73
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
 |----------|----------|----------|----------|
-| Yes | Visitors (B1/B2)  | 127 | 2023-11-13 |
-| Yes | Students/Exchange Visitors (F, M, J) | 27 | 2023-06-26 |
-| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 38 | 2023-07-11 |
-| Yes | Crew and Transit (C, D, C1/D) | 27 | 2023-06-26 |
+| Yes | Visitors (B1/B2)  | 130 | 2023-11-16 |
+| Yes | Students/Exchange Visitors (F, M, J) | 26 | 2023-06-23 |
+| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 49 | 2023-07-26 |
+| Yes | Crew and Transit (C, D, C1/D) | 25 | 2023-06-22 |
 | Waiver | Students/Exchange Visitors (F, M, J) | 1 | 2023-05-19 |
 | Waiver | Petition-Based Temporary Workers (H, L, O, P, Q) | 1 | 2023-05-19 |
 | Waiver | Crew and Transit (C, D, C1/D) | 1 | 2023-05-19 |
